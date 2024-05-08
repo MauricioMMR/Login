@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+.cabecalho
+{
+ height: 5rem;
+ background-color:#2f2841 ;
+}
+body
+{
+ background-color: #201b2c ;
+ 
+}
+.logo{
+    border: solid;
+    width: 7rem
+}
+.logoImg{
+    height: 8rem;
+    width: 8rem;
+    margin-top: 0.03rem;
+}
